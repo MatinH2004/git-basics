@@ -9,5 +9,5 @@ Important steps for git workflow:
 5. Commit changes to version history
 6. Review previous changes with git log
 
-Matin was here! I get my cast off my arm tomorrow!!!
+Matin was here!
 October 17, 2022
